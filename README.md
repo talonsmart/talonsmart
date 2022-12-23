@@ -1,6 +1,6 @@
 # Hello 👋
 
-6+ years of experience in full stack web development. Experienced with React on the front-end and Flask, Node and Django on the backend. By optimizing UI/UX and DevOps, I increased total page traffic for previous employers by 18-22%. My full portfolio can be found [here](https://talonsmart.github.io)
+Hello and thanks for viewing my profile. I have 7+ years of experience in full stack web development. Experienced with React on the front-end and Flask, Node and Django on the backend. By optimizing UI/UX and DevOps, I increased total page traffic for previous employers by 18-22%. My full portfolio can be found [here](https://talonsmart.github.io)
 
 ## Skills
 ### Front-End
