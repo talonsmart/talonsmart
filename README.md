@@ -6,27 +6,41 @@ Hello and thanks for viewing my profile. I have 7+ years of experience in full s
 ### Front-End
 - React
 - React Native
+- Angular
 - TypeScript
 - SCSS
 - HTML, CSS and JavaScript
+- Webpack
+- Vue
+- Axios
+- Fetch API
+- AJAX
 
 ### Back-End
 - Linux Adminstration (Ubuntu, Debian, Fedora)
+- Docker
+- Kubernetes
 - Git
 - GitHub and GitLab
 - Python
   - Django
   - Flask
+  - pillow
+  - bcrypt
+  - requests
 
 - NodeJS
   - Express
   - Sequelize
   - GraphQL
+  - Tensorflow
+  - Socket.io
 
 ### Misc
 - DevOPS
 - UI / UX Design
 - Some Graphic Design in Photoshop, Illustrator
+- REST, SOAP and GraphQL APIs
 
 ## Previous Experience
 ### CSAT Solutons
